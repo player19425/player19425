@@ -26,7 +26,7 @@
 
 ### 📊 Github Stats
   
-![Stats Overview](https://raw.githubusercontent.com/zeroknights16/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/zeroknights16/github-stats-transparent/output/generated/languages.svg)
+![Stats Overview](https://raw.githubusercontent.com/player19425/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/player19425/github-stats-transparent/output/generated/languages.svg)
 
 <br>
