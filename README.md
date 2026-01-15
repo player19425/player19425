@@ -1,19 +1,14 @@
-## Hey 👋, I'm Zeroknights!
+## Hey 👋, I'm Player!
 <p align="left">  <img src="https://komarev.com/ghpvc/?username=zeroknights16&label=Profile%20views&color=0e75b6&style=flat" alt="zeroknights16" />
 </p>
-
-
-I am a versatilist and easily adapt to different hats depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 
 <img align="right" alt="GIF" src="./techstack.gif" width="360px"/>
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **AthenaBot**
-- 🌱 &nbsp; I’m currently learning Python & R; 
-- 👨🏻‍💻 &nbsp; I'm currently studying AI in Austria
+- 🔭 &nbsp; I’m currently working on **XXX**
+- 🌱 &nbsp; I’m currently learning Python & Node;
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- ⛰️ &nbsp; When I am free, I love going outside in the mountains
 
 <br>
 
