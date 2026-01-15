@@ -17,3 +17,7 @@
 ![Most Used Languages](https://raw.githubusercontent.com/player19425/github-stats-transparent/output/generated/languages.svg)
 
 <br>
+
+<p align="center">
+  <sub>i actually dont use alot github.</sub>
+</p>
