@@ -19,5 +19,5 @@
 <br>
 
 <p align="center">
-  <sub>i actually dont use alot github.</sub>
+  <sub><i>i actually dont use alot github.</i></sub>
 </p>
