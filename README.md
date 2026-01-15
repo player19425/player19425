@@ -1,8 +1,7 @@
 ## Hey 👋, I'm Player!
-<p align="left">  <img src="https://komarev.com/ghpvc/?username=zeroknights16&label=Profile%20views&color=0e75b6&style=flat" alt="zeroknights16" />
+<p align="left">  <img src="https://komarev.com/ghpvc/?username=player19425&label=Profile%20views&color=0e75b6&style=flat" alt="player" />
 </p>
 
-<img align="right" alt="GIF" src="./techstack.gif" width="360px"/>
   
 ### 🧐 More About Me:
 
